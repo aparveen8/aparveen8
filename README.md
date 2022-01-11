@@ -14,7 +14,7 @@
 
 </div>
 <br>
-<img align="center" alt="image" src="https://raw.githubusercontent.com/aparveen8/aparveen8/main/header1.jpg" class="center" width="1100" hight="200" />
+<img align="center" alt="image" src="https://raw.githubusercontent.com/aparveen8/aparveen8/main/header1.jpg" class="center" width="900" />
 
 
 Hello, I'm Ayesha parveen, a **`Engineering student `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Computer vision enthusiast and interesting in coding. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, designing electronics, and code quality of the things I build. Beside's programming, I enjoy cooking food and writting.
