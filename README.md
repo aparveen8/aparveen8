@@ -17,16 +17,16 @@
 <img align="center" alt="image" src="https://raw.githubusercontent.com/aparveen8/aparveen8/main/header (2).jpg" class="center" width="1000" />
 
 
-Hello, I'm Ayesha parveen, a **`Engineering student `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Computer vision enthusiast and interesting in coding. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, designing electronics, and code quality of the things I build. Beside's programming, I enjoy cooking food and writting.
+Hello, I'm Ayesha parveen, a **`Engineering student `** and **`Researcher 🔭 `** from India 🇮🇳 ,a passionate Circuits Designer, VLSI Design enthusiast, Software Development, Hardware Design, PLC Programming, etc are my areas of interests.. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, designing electronics, and code quality of the things I build. Beside's programming, I enjoy cooking food and writting.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
   
 ### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [machine learning projects]
-- 🌱 I’m currently learning almost **`everything like java, CSS, html, robotics.....`**
-- 👯 I'm looking to collaborate on **`AI/ML`**
+- 👨🏽‍💻 I’m currently working on [FPGA projects]
+- 🌱 I’m currently learning almost **`everything like verilog, pcb designing.....`**
+- 👯 I'm looking to collaborate on **`AI/ML` in relation with core electronics**
 - 👷 Currently pursuing B.Tech in Electronics Engineering(2021-2025) from Zakir Hussain college of Engineering and Technology, AMU
 - 💼 I’m looking for **Internship** Opportunities/roles.
 - 🤔 I’m looking for help with how to excel in Competitive Programming
