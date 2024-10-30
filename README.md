@@ -1,8 +1,7 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-ayeshaparveen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayesha-parveen-stack/)](https://www.linkedin.com/in/ayesha-parveen-6620411bb/)
-[![Gmail Badge](https://img.shields.io/badge/-ayeshaparveen111-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aparveen111@myamu.ac.in)](mailto:aparveen111@myamu.ac.in)
-![](https://komarev.com/ghpvc/?username=ayeshaparveen&style=flat&color=828bed)
+[![Gmail Badge](https://img.shields.io/badge/-ayeshaparveen111-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aparveen111@myamu.ac.in)](mailto:aparveen826@gmail.com)
 
 </div>
 
