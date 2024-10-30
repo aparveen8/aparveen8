@@ -12,9 +12,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-ayeshaparveen111-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aparveen111@myamu.ac.in)](mailto:aparveen111@myamu.ac.in)
 ![](https://komarev.com/ghpvc/?username=ayeshaparveen&style=flat&color=828bed)
 
-</div>
-<br>
-<img align="center" alt="image" src="https://raw.githubusercontent.com/aparveen8/aparveen8/main/header (2).jpg" class="center" width="1000" />
+
+
 
 
 # Ayesha Parveen
