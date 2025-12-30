@@ -9,9 +9,6 @@
 
 # 👋 Greetings, I'm Ayesha Parveen!
 
-## About Me
-I am an enthusiastic learner with a strong foundation in **microelectronics** and a passion for collaborating on innovative semiconductor technologies. With proven skills in **programming** and **problem-solving**, I have completed various projects in both **analog** and **digital system design**. Through these experiences, I have honed my abilities in circuit design, simulation, and verification, consistently striving to develop efficient and impactful solutions.
-
 ---
 
 # Skills & Tools
