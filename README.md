@@ -11,19 +11,6 @@
 
 ---
 
-# Skills & Tools
-
-**Languages**: Verilog, C/C++, 8085 Assembly, Python  
-**Simulation Tools**: Cadence Virtuoso, Xilinx Vivado, LTspice, eSim, MATLAB  
-**Boards**: FPGA, Arduino, STM32 Nucleo, Raspberry Pi  
-**Other Skills**: Teamwork, Communication, Leadership, Problem-solving  
-
-## 💼 Internship
-**IC Design Intern** | *MakerCHIPS, OSCM (Open Source Chip Movement)*<br>
-Currently working on IC design flow, device modeling, and verification under Prof. Alex James, using open-source EDA tools (Magic, NgSpice, Makerchip, Xschem).
-
----
-
 ## 🛠️ Projects
 
 **Low Dropout Voltage Regulator Design**  
@@ -57,7 +44,7 @@ Currently working on IC design flow, device modeling, and verification under Pro
 
 ## 🏆 Education
 - **Bachelor of Technology in Electronics Engineering** | *Aligarh Muslim University, India*<br>
-  **GPA**: 9.39/10 | **Duration**: Dec 2021–May 2025  
+  **GPA**: 9.45/10 (Departmental Rank 2) | **Duration**: Dec 2021–May 2025  
 
 - **Diploma in Electronics Engineering** | *Aligarh Muslim University*<br>
   **Percentage**: 84.11/100 (Departmental Rank 2) | **Duration**: Aug 2018–June 2021  
